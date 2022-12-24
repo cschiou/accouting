@@ -1,6 +1,5 @@
 import csv
 import os
-from Account_ds import Account
 
 
 def read_csv(file, account):
